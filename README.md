@@ -16,39 +16,38 @@
 
 ### 自动化代理
 
-- DevOpsGPT
-- MetaGPT
-- GPT Engineer
+- [DevOpsGPT](https://github.com/simonbutt/devopsgpt) — DevOpsGPT是一个AI驱动的软件开发自动化解决方案，它可以把自然语言的需求转换成功能性的软件。 DevOpsGPT结合了大型语言模型和DevOps工具，可以支持多种编程语言和框架。 DevOpsGPT可以让用户直接和AI交互，快速地完成软件开发，缩短开发周期，加速软件部署和迭代。
+- [MetaGPT](https://github.com/geekan/MetaGPT) — MetaGPT是一个多智能体协作的软件开发框架，它可以把一行的需求输入转换成用户故事、竞品分析、需求文档、数据结构、API、文档等输出。 MetaGPT内部包含了产品经理、架构师、项目经理、工程师等不同角色的GPT，它们通过标准化的操作流程（SOP）来协调合作，实现复杂任务的分解和执行。 MetaGPT是一个基于元编程的创新框架，它可以利用大型语言模型（LLM）来提高软件开发的效率和质量。
+- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — GPT Engineer是一个可以根据文本提示生成完整代码库的GPT 4程序。 GPT Engineer可以让你指定你想要构建的内容，AI会向你询问一些澄清的问题，然后生成代码。 GPT Engineer设计成易于适配、扩展和训练，你可以让你的智能体学习你想要的代码风格和结构。
 
 ### 翻译
 
-- OpenAI Translator
+- [OpenAI Translator](https://github.com/openai-translator/openai-translator) — OpenAI Translator是一个使用ChatGPT API进行翻译的工具，它可以支持55种语言，还可以对文章进行摘要、润色、分析和代码解释。 OpenAI Translator有Chrome浏览器的扩展功能，也有跨平台的桌面应用。
 
 ### 文档
 
-- ChatFiles
-- pdfGPT
-- Quivr
+- [ChatFiles](https://github.com/guangzhengli/ChatFiles) — ChatFiles是一个文档聊天机器人，它可以让你上传你的文件，然后和它进行对话，获取你想要的信息。 ChatFiles使用了LangchainJS和Chatbot-ui技术，还利用了VectorHub和Supabase来构建向量数据库和索引。 ChatFiles支持多种文件格式，包括PDF、Word、Excel等，你甚至可以上传一个压缩文件，它会自动解压并创建一个新的图形。
+- [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) — pdfGPT是一个可以让你和你的PDF文件进行对话的工具，它可以帮助你获取PDF文件的摘要、生成新的文档、提取数据等。 pdfGPT使用了Hugging Face的Turbo模型和GPT4模型，包括16K和32K的token模型，来实现自然语言处理的能力。
+- [Quivr](https://github.com/StanGirard/quivr) — Quivr云端工具是一个利用生成式AI的能力来增强你的第二大脑的应用，它可以让你处理几乎任何类型的数据，比如文本、图片、视频、音频等，并且可以自动生成摘要、标签、链接等。
 
 ### 设计
 
-- FigmaChain
+- [FigmaChain](https://github.com/cirediatpl/FigmaChain) — FigmaChain是一个基于Figma设计生成HTML/CSS代码的Python脚本集合，它使用了OpenAI的GPT-3模型，可以让开发者快速地从一个Figma设计输入生成HTML/CSS代码。 FigmaChain还包括了一个基于Streamlit的聊天机器人界面，可以实现交互式的代码生成。
 
 ### GPT应用
 
-- ChatGPT Desktop Application
-- ChatGPT Next Web
-- Chatbox
-- SpeechGPT
-- Auto-GPT
-- Polyglot
-- AutoGPT-Next-Web
-- ChatALL
-- Pandora
-- ChatHub
-- Lobe Chat
+- [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) — ChatGPT Next Web是一个基于ChatGPT的跨平台的聊天界面（Web端），它可以让你和你的AI助手进行对话，实现各种功能，比如生成内容、搜索信息、管理数据等。
+- [Chatbox]() — 
+- [SpeechGPT]() — 
+- [Auto-GPT]() — 
+- [Polyglot]() — 
+- [AutoGPT-Next-Web]() — 
+- [ChatALL]() — 
+- [Pandora]() — 
+- [ChatHub]() — 
+- [Lobe Chat]() — 
 
 ### 插件
 
-- KeepChatGPT
-- Webpilot
+- [KeepChatGPT]() — 
+- [Webpilot]() — 
