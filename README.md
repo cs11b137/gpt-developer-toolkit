@@ -6,6 +6,7 @@
 - Codeium
 - TypeChat
 - Tabby
+- Rift
 - SQL Chat
 - AI Code Translator
 - Cursor
