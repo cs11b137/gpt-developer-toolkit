@@ -7,7 +7,6 @@
 - [CodeGeeX2](https://codegeex.cn/zh-CN) — 多语言代码生成模型，是CodeGeeX的第二代模型，基于ChatGLM2架构注入代码实现。12 CodeGeeX2具有更强大的代码能力、更优秀的模型特性、更全面的AI编程助手和更开放的协议等。
 - [TabbyML](https://www.tabbyml.com/) — 自托管的AI编码助手，可以在实时提供多行和完整函数的代码建议。它不需要数据库或云服务，有OpenAPI接口，支持消费级GPU。
 - [Morph Rift](https://github.com/morph-labs/rift) — 开源的AI原生语言服务器，可以把VSCode变成一个未来的IDE。你可以用自然语言和编码代理沟通和协作，创建和迭代整个项目。编码代理可以预测，维持上下文，执行你的意图。
-- [TypeChat](https://github.com/microsoft/Typechat) — TypeChat是一个库，可以让你用类型来构建自然语言界面。它可以让你用Typescript类型来定义你的自然语言应用支持的意图，然后用ChatGPT来返回符合这个类型定义的数据。
 - [SQL Chat](https://www.sqlchat.ai/) — 基于聊天的SQL客户端和编辑器，适用于下一个十年。你可以用自然语言和SQL Chat交流，它会帮你写和运行SQL语句，管理和分析你的数据库。
 - [DB GPT](https://github.com/eosphoros-ai/DB-GPT) — 开源的以数据库为基础的GPT实验项目，使用本地化的GPT大模型与你的数据和环境进行交互，无数据泄露风险，100% 私密，100% 安全。DB-GPT可以让你用自然语言查询，修改，分析你的数据库，而不需要写SQL语句。DB-GPT也可以生成数据库相关的代码，文档，报告等内容。
 - [AI Code Translator](https://github.com/mckaywrigley/ai-code-translator) — 基于AI的代码转换器，能够帮助我们实现不同编程语言的代码转换，我们只需要输入一种编程语言的代码，通过这个在线工具，能够实现基于GPT-3.5/4将其翻译成另一种目标语言。
@@ -15,7 +14,7 @@
 - [bloop](https://github.com/BloopAI/bloop) — 用Rust编写的代码搜索工具，可以用正则表达式快速地找到代码、标识符、路径和仓库。bloop还支持10多种编程语言的精确代码导航，可以帮助你快速地在引用和定义之间跳转。bloop有两种使用方式：一种是下载桌面应用，自己在本地运行；另一种是注册云端服务，通过网页访问。
 
 ### 自动化代理
-
+- [TypeChat](https://github.com/microsoft/Typechat) — TypeChat是一个库，可以让你用类型来构建自然语言界面。它可以让你用Typescript类型来定义你的自然语言应用支持的意图，然后用ChatGPT来返回符合这个类型定义的数据。
 - [DevOpsGPT](https://github.com/simonbutt/devopsgpt) — DevOpsGPT是一个AI驱动的软件开发自动化解决方案，它可以把自然语言的需求转换成功能性的软件。 DevOpsGPT结合了大型语言模型和DevOps工具，可以支持多种编程语言和框架。 DevOpsGPT可以让用户直接和AI交互，快速地完成软件开发，缩短开发周期，加速软件部署和迭代。
 - [MetaGPT](https://github.com/geekan/MetaGPT) — MetaGPT是一个多智能体协作的软件开发框架，它可以把一行的需求输入转换成用户故事、竞品分析、需求文档、数据结构、API、文档等输出。 MetaGPT内部包含了产品经理、架构师、项目经理、工程师等不同角色的GPT，它们通过标准化的操作流程（SOP）来协调合作，实现复杂任务的分解和执行。 MetaGPT是一个基于元编程的创新框架，它可以利用大型语言模型（LLM）来提高软件开发的效率和质量。
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — GPT Engineer是一个可以根据文本提示生成完整代码库的GPT 4程序。 GPT Engineer可以让你指定你想要构建的内容，AI会向你询问一些澄清的问题，然后生成代码。 GPT Engineer设计成易于适配、扩展和训练，你可以让你的智能体学习你想要的代码风格和结构。
