@@ -15,7 +15,7 @@
 
 ### 自动化代理
 - [TypeChat](https://github.com/microsoft/Typechat) — TypeChat是一个库，可以让你用类型来构建自然语言界面。它可以让你用Typescript类型来定义你的自然语言应用支持的意图，然后用ChatGPT来返回符合这个类型定义的数据。
-- [DevOpsGPT](https://github.com/simonbutt/devopsgpt) — DevOpsGPT是一个AI驱动的软件开发自动化解决方案，它可以把自然语言的需求转换成功能性的软件。 DevOpsGPT结合了大型语言模型和DevOps工具，可以支持多种编程语言和框架。 DevOpsGPT可以让用户直接和AI交互，快速地完成软件开发，缩短开发周期，加速软件部署和迭代。
+- [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — DevOpsGPT是一个AI驱动的软件开发自动化解决方案，它可以把自然语言的需求转换成功能性的软件。 DevOpsGPT结合了大型语言模型和DevOps工具，可以支持多种编程语言和框架。 DevOpsGPT可以让用户直接和AI交互，快速地完成软件开发，缩短开发周期，加速软件部署和迭代。
 - [MetaGPT](https://github.com/geekan/MetaGPT) — MetaGPT是一个多智能体协作的软件开发框架，它可以把一行的需求输入转换成用户故事、竞品分析、需求文档、数据结构、API、文档等输出。 MetaGPT内部包含了产品经理、架构师、项目经理、工程师等不同角色的GPT，它们通过标准化的操作流程（SOP）来协调合作，实现复杂任务的分解和执行。 MetaGPT是一个基于元编程的创新框架，它可以利用大型语言模型（LLM）来提高软件开发的效率和质量。
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — GPT Engineer是一个可以根据文本提示生成完整代码库的GPT 4程序。 GPT Engineer可以让你指定你想要构建的内容，AI会向你询问一些澄清的问题，然后生成代码。 GPT Engineer设计成易于适配、扩展和训练，你可以让你的智能体学习你想要的代码风格和结构。
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) — Auto-GPT是一个能自主迭代、自主学习（长时记忆）、自我提示且联网查询的新的GPT框架，它不需要用户和ChatGPT进行多轮对话，而是最少只需要在第一轮对话中输入需求，Auto-GPT就能自己分解任务去完成，且完成度更高。 Auto-GPT可以处理文本、语音、图像等多种模态的内容。
