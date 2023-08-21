@@ -19,6 +19,8 @@
 - [DevOpsGPT](https://github.com/simonbutt/devopsgpt) — DevOpsGPT是一个AI驱动的软件开发自动化解决方案，它可以把自然语言的需求转换成功能性的软件。 DevOpsGPT结合了大型语言模型和DevOps工具，可以支持多种编程语言和框架。 DevOpsGPT可以让用户直接和AI交互，快速地完成软件开发，缩短开发周期，加速软件部署和迭代。
 - [MetaGPT](https://github.com/geekan/MetaGPT) — MetaGPT是一个多智能体协作的软件开发框架，它可以把一行的需求输入转换成用户故事、竞品分析、需求文档、数据结构、API、文档等输出。 MetaGPT内部包含了产品经理、架构师、项目经理、工程师等不同角色的GPT，它们通过标准化的操作流程（SOP）来协调合作，实现复杂任务的分解和执行。 MetaGPT是一个基于元编程的创新框架，它可以利用大型语言模型（LLM）来提高软件开发的效率和质量。
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — GPT Engineer是一个可以根据文本提示生成完整代码库的GPT 4程序。 GPT Engineer可以让你指定你想要构建的内容，AI会向你询问一些澄清的问题，然后生成代码。 GPT Engineer设计成易于适配、扩展和训练，你可以让你的智能体学习你想要的代码风格和结构。
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) — Auto-GPT是一个能自主迭代、自主学习（长时记忆）、自我提示且联网查询的新的GPT框架，它不需要用户和ChatGPT进行多轮对话，而是最少只需要在第一轮对话中输入需求，Auto-GPT就能自己分解任务去完成，且完成度更高。 Auto-GPT可以处理文本、语音、图像等多种模态的内容。
+- [AutoGPT-Next-Web]() — AutoGPT-Next-Web 是一个网络应用程序，允许您在浏览器中部署自己的私人 AutoGPT 聊天机器人。您可以使用它来创建、配置和与自主 AI 代理进行交互。您还可以通过代码控制对您网站的访问权限。
 
 ### 翻译
 
@@ -37,17 +39,13 @@
 ### GPT应用
 
 - [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) — ChatGPT Next Web是一个基于ChatGPT的跨平台的聊天界面（Web端），它可以让你和你的AI助手进行对话，实现各种功能，比如生成内容、搜索信息、管理数据等。
-- [Chatbox]() — 
-- [SpeechGPT]() — 
-- [Auto-GPT]() — 
-- [Polyglot]() — 
-- [AutoGPT-Next-Web]() — 
-- [ChatALL]() — 
-- [Pandora]() — 
-- [ChatHub]() — 
-- [Lobe Chat]() — 
+- [Chatbox](https://github.com/Bin-Huang/chatbox) — Chatbox是一款适用于Windows、Mac和Linux操作系统的桌面应用程序，具备多个先进的LLM模型。
+- [SpeechGPT](https://github.com/hahahumble/speechgpt) — SpeechGPT还是一个网页应用，它可以让你和ChatGPT进行对话。你可以使用这个应用来提高你的语言说话技能或者简单地和ChatGPT聊天。
+- [Polyglot](https://github.com/liou666/polyglot) — Polyglot是一款跨平台的桌面端应用程序（目前已支持web版本）。基于ChatGPT和Azure人工智能语言模型作为底层服务，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习。
+- [ChatALL](https://github.com/sunner/ChatALL) — ChatALL是一个开源项目，可以让你同时与多个AI机器人聊天，发现最好的回答。 它支持国内外主流的AI模型，支持Windows/macOS/Linux平台。
+- [Pandora](https://github.com/pengzhile/pandora) — 潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
 
 ### 插件
 
-- [KeepChatGPT]() — 
-- [Webpilot]() — 
+- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) — 这是一款ChatGPT的畅聊、增强、数据安全插件。
+- [Webpilot](https://github.com/webpilot-ai/Webpilot) — WebPilot是一个基于GPT-3.5-turbo开发的工具，它可以让你与网页进行自由形式的对话，或者与其他用户进行自动辩论。
