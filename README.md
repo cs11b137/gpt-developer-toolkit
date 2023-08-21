@@ -7,7 +7,7 @@
 - [CodeGeeX2](https://codegeex.cn/zh-CN) — 多语言代码生成模型，是CodeGeeX的第二代模型，基于ChatGLM2架构注入代码实现。12 CodeGeeX2具有更强大的代码能力、更优秀的模型特性、更全面的AI编程助手和更开放的协议等。
 - [TabbyML](https://www.tabbyml.com/) — 自托管的AI编码助手，可以在实时提供多行和完整函数的代码建议。它不需要数据库或云服务，有OpenAPI接口，支持消费级GPU。
 - [Morph Rift](https://github.com/morph-labs/rift) — 开源的AI原生语言服务器，可以把VSCode变成一个未来的IDE。你可以用自然语言和编码代理沟通和协作，创建和迭代整个项目。编码代理可以预测，维持上下文，执行你的意图。
-- [SQL Chat](https://www.sqlchat.ai/) — 基于聊天的SQL客户端和编辑器，适用于下一个十年。你可以用自然语言和SQL Chat交流，它会帮你写和运行SQL语句，管理和分析你的数据库。
+- [SQL Chat](https://github.com/sqlchat/sqlchat) — 基于聊天的SQL客户端和编辑器，适用于下一个十年。你可以用自然语言和SQL Chat交流，它会帮你写和运行SQL语句，管理和分析你的数据库。
 - [DB GPT](https://github.com/eosphoros-ai/DB-GPT) — 开源的以数据库为基础的GPT实验项目，使用本地化的GPT大模型与你的数据和环境进行交互，无数据泄露风险，100% 私密，100% 安全。DB-GPT可以让你用自然语言查询，修改，分析你的数据库，而不需要写SQL语句。DB-GPT也可以生成数据库相关的代码，文档，报告等内容。
 - [AI Code Translator](https://github.com/mckaywrigley/ai-code-translator) — 基于AI的代码转换器，能够帮助我们实现不同编程语言的代码转换，我们只需要输入一种编程语言的代码，通过这个在线工具，能够实现基于GPT-3.5/4将其翻译成另一种目标语言。
 - [Cursor](https://www.cursor.so/) — 集成了GPT-4的智能代码编辑器，可以让你用AI来编写、编辑和讨论代码。支持多种编程语言，如Python, Java, C#, JavaScript等，并且可以根据你的输入和需求自动生成代码片段。
