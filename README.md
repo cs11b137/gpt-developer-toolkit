@@ -43,6 +43,7 @@
 - [Polyglot](https://github.com/liou666/polyglot) — Polyglot是一款跨平台的桌面端应用程序（目前已支持web版本）。基于ChatGPT和Azure人工智能语言模型作为底层服务，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习。
 - [ChatALL](https://github.com/sunner/ChatALL) — ChatALL是一个开源项目，可以让你同时与多个AI机器人聊天，发现最好的回答。 它支持国内外主流的AI模型，支持Windows/macOS/Linux平台。
 - [Pandora](https://github.com/pengzhile/pandora) — 潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
+- [LlamaGPT](https://github.com/getumbrel/llama-gpt) — 一个自托管的、离线的ChatGPT类似的聊天机器人，由Llama 2提供支持。100%私密，没有数据离开您的设备。
 
 ### 插件
 
