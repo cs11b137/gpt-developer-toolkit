@@ -4,6 +4,7 @@
 
 - [CodeGPT](https://codegpt.co/) — 使用人工智能写和改进代码的工具。它是一个Visual Studio Code的扩展，可以让你在编辑器里使用官方的OpenAI API或其他AI提供商来生成代码或自然语言回答你的问题。
 - [Codeium](https://codeium.com/) — 免费的智能编程助手，可以让你用AI来加速代码编写，或者用自然语言问问题并得到AI的回答。Codeium支持70多种编程语言的代码自动完成，具有闪电般的速度和最先进的建议质量。
+- [Continue](https://github.com/continuedev/continue) — Continue是软件开发的开源自动驾驶系统，它是一个VS Code扩展，将ChatGPT的强大功能带到您的集成开发环境中。
 - [CodeGeeX2](https://codegeex.cn/zh-CN) — 多语言代码生成模型，是CodeGeeX的第二代模型，基于ChatGLM2架构注入代码实现。12 CodeGeeX2具有更强大的代码能力、更优秀的模型特性、更全面的AI编程助手和更开放的协议等。
 - [TabbyML](https://www.tabbyml.com/) — 自托管的AI编码助手，可以在实时提供多行和完整函数的代码建议。它不需要数据库或云服务，有OpenAPI接口，支持消费级GPU。
 - [Morph Rift](https://github.com/morph-labs/rift) — 开源的AI原生语言服务器，可以把VSCode变成一个未来的IDE。你可以用自然语言和编码代理沟通和协作，创建和迭代整个项目。编码代理可以预测，维持上下文，执行你的意图。
