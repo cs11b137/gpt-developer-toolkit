@@ -5,8 +5,6 @@
 - [CodeGPT](https://codegpt.co/) — 使用人工智能写和改进代码的工具。它是一个Visual Studio Code的扩展，可以让你在编辑器里使用官方的OpenAI API或其他AI提供商来生成代码或自然语言回答你的问题。
 - [Codeium](https://codeium.com/) — 免费的智能编程助手，可以让你用AI来加速代码编写，或者用自然语言问问题并得到AI的回答。Codeium支持70多种编程语言的代码自动完成，具有闪电般的速度和最先进的建议质量。
 - [Continue](https://github.com/continuedev/continue) — Continue是软件开发的开源自动驾驶系统，它是一个VS Code扩展，将ChatGPT的强大功能带到您的集成开发环境中。
-- [CodeGeeX2](https://codegeex.cn/zh-CN) — 多语言代码生成模型，是CodeGeeX的第二代模型，基于ChatGLM2架构注入代码实现。12 CodeGeeX2具有更强大的代码能力、更优秀的模型特性、更全面的AI编程助手和更开放的协议等。
-- [TabbyML](https://www.tabbyml.com/) — 自托管的AI编码助手，可以在实时提供多行和完整函数的代码建议。它不需要数据库或云服务，有OpenAPI接口，支持消费级GPU。
 - [Morph Rift](https://github.com/morph-labs/rift) — 开源的AI原生语言服务器，可以把VSCode变成一个未来的IDE。你可以用自然语言和编码代理沟通和协作，创建和迭代整个项目。编码代理可以预测，维持上下文，执行你的意图。
 - [SQL Chat](https://github.com/sqlchat/sqlchat) — 基于聊天的SQL客户端和编辑器，适用于下一个十年。你可以用自然语言和SQL Chat交流，它会帮你写和运行SQL语句，管理和分析你的数据库。
 - [DB GPT](https://github.com/eosphoros-ai/DB-GPT) — 开源的以数据库为基础的GPT实验项目，使用本地化的GPT大模型与你的数据和环境进行交互，无数据泄露风险，100% 私密，100% 安全。DB-GPT可以让你用自然语言查询，修改，分析你的数据库，而不需要写SQL语句。DB-GPT也可以生成数据库相关的代码，文档，报告等内容。
